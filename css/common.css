@@ -1,0 +1,25 @@
+body{
+    padding: 0px;
+}
+
+div{
+    padding: 5px;
+    margin: 5px;
+}
+
+.container{
+
+}
+
+.diff-tables{
+    border: solid 1px;
+    width: 45%;
+    height: auto;
+    float: left;
+}
+
+.diff-tables-data{
+
+}
+
+

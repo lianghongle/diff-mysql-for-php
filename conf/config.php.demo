@@ -1,0 +1,18 @@
+<?php
+
+return [
+    'db1'=>[
+        'host'=>'',
+        'user'=>'',
+        'password'=>'',
+        'database'=>'',
+        'port'=>3306
+    ],
+    'db2'=>[
+        'host'=>'',
+        'user'=>'',
+        'password'=>'',
+        'database'=>'',
+        'port'=>3306
+    ],
+];
